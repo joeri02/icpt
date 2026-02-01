@@ -20,3 +20,15 @@ obj/
 # Temporary files
 *.tmp
 *.log
+# Build outputs
+opdracht2/C/calculator
+opdracht3/schuifpuzzel
+opdracht4/maze
+opdracht6/go.sum
+
+# Binaries
+*.o
+*.a
+*.so
+*.out
+*.app
